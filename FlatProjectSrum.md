@@ -39,7 +39,7 @@
 
 ## SPRINT-BACKLOG
 
-![Sprint-backlog](/SprintBacklogFlatProjectScrum.png)
+![Sprint-backlog](/img/SprintBacklogFlatProjectScrum.png)
 
 ### Sprint Backlog № 1: Разработка дизайна-проекта
 * Создание общего макета, выбор цветовых схем, элементов декора
@@ -127,4 +127,4 @@
 
 Подготовлена Scrum-доска с мероприятиями спланированными в рамках ремонта согласно ролям. В конце каждого спринта подведены итоги. Выполнена функциональность по To-do, In progress, To-test, Done листам. Задачи в спринтах распределны согласно логике загруженности всех команд, что видно на Scrum-доске.
 
-![Scrum-доска](/FlatProjectSrumBoard.png)
+![Scrum-доска](/img/FlatProjectSrumBoard.png)
